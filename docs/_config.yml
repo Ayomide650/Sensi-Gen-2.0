@@ -1,0 +1,7 @@
+title: Sensi-Gen
+theme: jekyll-theme-primer
+exclude: [
+  "assets/**/*.js",
+  "assets/**/*.css",
+  "*.html"
+]
