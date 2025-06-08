@@ -37,5 +37,6 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
-  }
+  },
+  "homepage": "https://ayomide650.github.io/Sensi-Gen-2.0"
 }
